@@ -4,7 +4,7 @@
 **Shashwat2412/Shashwat2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am  Shashwat Mishra </h1>
-<p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source. <br> I'm a 2nd year **Information Technology** student from **JSS Academy of Technical Education, Noida**.<br></p> 
+<p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source. <br> I'm a 3rd year **Information Technology** student from **JSS Academy of Technical Education, Noida**.<br></p> 
 <img src="https://github-hero-readme.vercel.app/api?username=Shashwat2412&linkedin=shashwat-mishra-🇮🇳&&twitter=Shashwat&description=Open Source | Web Developer |    Enthaustic" width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shashwat2412" alt="Shashwat2412" /> </p>
 <!-- <p align="center">
