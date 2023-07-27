@@ -13,7 +13,7 @@
   <li>🔭 Problem Solving</li>
   <li>🌱 I’m currently working on Javascript and Reactjs</li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/Shashwat2412" target="_blank">https://github.com/Shashwat2412</a></li>
-  <!-- <li>👨‍💻 My portfolio <a href="https://meanant4myself.netlify.app" target="_blank">ShashwatMishra</a></li> -->
+  <li>👨‍💻 My portfolio <a href="https://shashwat-mishra-sm.netlify.app/" target="_blank">ShashwatMishra</a></li>
   <li>📫 How to reach me: shashwatmr2403@gmail.com </li>
   <li>💬 Ask me about React & Open Source</li>
 </ul>
