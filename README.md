@@ -22,9 +22,9 @@
   <li>📫 How to reach me: shashwatmr2403@gmail.com </li>
   <li>💬 Ask me about React & Open Source</li>
 </ul>
-
+<br>
  
-### 🛠 Tech Stack
+### 💻 Tech Stack
 <!--  
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
@@ -39,6 +39,7 @@
 </p>   -->
 <p align="center"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/GIT-239120?style=for-the-badge&logo=git&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/TAILWIND-239120?style=for-the-badge&logo=tailwind&logoColor=white"/> 
 </p>
+<br>
 
 ### ⚡ Github Stats
 
