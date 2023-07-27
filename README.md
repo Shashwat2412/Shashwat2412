@@ -10,8 +10,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shashwat2412" alt="Shashwat2412" /> </p>
 <br>
 
-## 🙂 About
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" height="200px" />
+## 🧐 About
+<img align="right" alt="GIF" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="380px" height="200px" />
 
 <ul>
   <li>🔭 Web Developer</li>
