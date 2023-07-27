@@ -1,3 +1,4 @@
+![My Post](https://user-images.githubusercontent.com/56193323/125333952-74c36b00-e368-11eb-8253-4cc1a6d31f09.gif)
 <!-- ### Hi there 👋🏻 -->
 
 <!--
@@ -7,7 +8,9 @@
 <p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source. <br> I'm a 4th year **Information Technology** student from **JSS Academy of Technical Education, Noida**.<br></p> 
 <!-- <img src="https://github-hero-readme.vercel.app/api?username=Shashwat2412&linkedin=shashwat-mishra-🇮🇳&&twitter=Shashwat&description=Open Source | Web Developer |    Enthaustic" width="100%"> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shashwat2412" alt="Shashwat2412" /> </p>
+<br>
 
+## 🙂 About
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" height="200px" />
 
 <ul>
